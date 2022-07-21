@@ -36,4 +36,4 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 To cite this lesson, please consult with [CITATION](CITATION)
 
-[Prac_Base]: https://github.io/COMP1005/Prac_Base
+[Prac_Base](https://github.io/COMP1005/Prac_Base)
